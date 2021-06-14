@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [James Gordon, **Wikimedia**](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Palmyra%2C_Syria_-_2.jpg/1200px-Palmyra%2C_Syria_-_2.jpg)'
   focal_point: ""
   placement: 2
   preview_only: false
