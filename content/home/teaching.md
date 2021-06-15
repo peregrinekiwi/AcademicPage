@@ -10,7 +10,7 @@ headless: true
 weight: 25
 
 title: Teaching
-subtitle:
+subtitle: How does this look?
 
 content:
   # Page type to display. E.g. post, talk, publication...
