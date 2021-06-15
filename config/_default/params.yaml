@@ -24,8 +24,11 @@ email: hamish.r.cameron@vuw.ac.nz
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: 
     link: 'https://twitter.com/Peregrinekiwi'
+coordinates:
+  latitude: -41.288694
+  longitude: 174.768732
 
 # Site header
 
