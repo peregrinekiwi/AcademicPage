@@ -21,6 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: hamish.r.cameron@vuw.ac.nz
+coordinates:
+  latitude: '-41.288694'
+  longitude: '174.768732'
 contact_links:
   - icon: twitter
     icon_pack: fab
