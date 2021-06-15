@@ -22,13 +22,6 @@ twitter: ''
 
 email: hamish.r.cameron@vuw.ac.nz
 phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
 coordinates:
   latitude: '-41.2886'
   longitude: '174.7687'
