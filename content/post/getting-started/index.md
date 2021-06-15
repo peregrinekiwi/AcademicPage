@@ -9,7 +9,7 @@ summary: Deleting the stuff I don't want and adding the stuff I do.
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-12-13T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
