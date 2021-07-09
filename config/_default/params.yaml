@@ -30,7 +30,7 @@ contact_links:
     icon_pack: fab
     name: Peregrinekiwi
     link: 'https://twitter.com/Peregrinekiwi'
-   - icon: twitter
+  - icon: twitter
     icon_pack: fab
     name: Edges of History
     link: 'https://twitter.com/edgesofhistory'
