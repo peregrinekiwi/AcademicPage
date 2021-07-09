@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Games
+    tag: Games
+  - name: Space
+    tag: Space
+  - name: Roman Near East
+    tag: Roman Near East
   - name: Other
     tag: Demo
 
