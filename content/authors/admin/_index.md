@@ -65,6 +65,7 @@ highlight_name: false
 ---
 
 Hamish Cameron is a Lecturer in Classics at Victoria University of Wellington where he works on the history and geography of the Roman Near East, representations of imperialism in classical literature, and reception in modern analog and digital games. His most recent book is [*Making Messpotamia: Geography and Imperialism in a Romano-Iranian Borderland*](https://doi.org/10.1163/9789004388635), published by Brill in 2019.
+
 He is also a tabletop game designer, with two published roleplaying games, [*The Sprawl*](http://www.ardens.org/games/the-sprawl/) (2016) and [*Dinosaur Princesses*](http://www.ardens.org/games/dinosaur-princesses/) (2019). He is currently working on several other games including a board game on Romano-Parthian Mesopotamia that he created for a class on historical board game design and a roleplaying game of occult horror set in Imperial Rome.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CameronCV.pdf" "newtab" >}}curiculum vitae{{< /staticref >}} or view it online on [Hamish's Humanities Commons page](https://hcommons.org/members/hcameron/).
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/CameronCV.pdf" "newtab" >}}curiculum vitae{{< /staticref >}} or view it online on my [Humanities Commons page](https://hcommons.org/members/hcameron/).
