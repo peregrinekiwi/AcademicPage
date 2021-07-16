@@ -2,7 +2,7 @@
 title: What Makes Ancient Games Great?
 
 event: Classics and Video Games Lecture Series
-event_url: https://www.youtube.com/watch?v=IfxmMe8VNa4
+event_url: 
 
 location: Online (ASU)
 address:
@@ -44,7 +44,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=IfxmMe8VNa4"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -54,3 +54,4 @@ url_video: ""
 projects:
 - VideoGames
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfxmMe8VNa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
