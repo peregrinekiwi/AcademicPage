@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Wellington, NZ
-    date_start: '2019-01-07'
+    date_start: '2019-07-01'
     date_end: ''
     description:
         
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Lewiston, Maine
-    date_start: '2016-01-09'
-    date_end: '2019-01-06'
+    date_start: '2016-09-01'
+    date_end: '2019-09-01'
     description:
 
   - title: Visiting Assistant Professor, Roman History
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Cincinnati, Ohio
-    date_start: '2015-01-08'
-    date_end: '2016-01-08'
+    date_start: '2015-08-01'
+    date_end: '2016-08-01'
     description:
 
 design:
