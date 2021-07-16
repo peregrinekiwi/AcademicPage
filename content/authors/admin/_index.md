@@ -49,6 +49,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://hcommons.org/members/hcameron/
+- icon: chalkboard-teacher  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://people.wgtn.ac.nz/hamish.r.cameron/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,4 +71,4 @@ Hamish Cameron is a Lecturer in Classics at Victoria University of Wellington wh
 
 He is also a tabletop game designer, with two published roleplaying games, [*The Sprawl*](http://www.ardens.org/games/the-sprawl/) (2016) and [*Dinosaur Princesses*](http://www.ardens.org/games/dinosaur-princesses/) (2019). He is currently working on several other games including a board game on Romano-Parthian Mesopotamia that he created for a class on historical board game design and a roleplaying game of occult horror set in Imperial Rome.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/CameronCV.pdf" "newtab" >}}curiculum vitae{{< /staticref >}} or view it online on my [Humanities Commons page](https://hcommons.org/members/hcameron/).
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/CameronCV.pdf" "newtab" >}}curiculum vitae{{< /staticref >}}.
