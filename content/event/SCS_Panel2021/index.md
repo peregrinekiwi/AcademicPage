@@ -19,8 +19,8 @@ Dunstan Lowe, University of Kent."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-02T09:00:00NZST"
-#date_end: "2021-05-01T22:00:00NZST"
+date: "2021-05-02T09:00:00Z"
+#date_end: "2021-05-01T22:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
