@@ -37,7 +37,7 @@ experience:
     company_logo: ''
     location: Lewiston, Maine
     date_start: '2016-09-01'
-    date_end: '2019-09-01'
+    date_end: '2019-06-30'
     description:
 
   - title: Visiting Assistant Professor, Roman History
