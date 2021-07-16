@@ -26,8 +26,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-07-04"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [videogames, panels, SCS]
 
 # Is this a featured talk? (true/false)
 featured: true
