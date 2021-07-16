@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-["What Makes Ancient Games Great?"](https://www.youtube.com/watch?v=IfxmMe8VNa4) Panel discussion in the Classics and Video Games Lecture Series (organised by Dr Britta Ager, ASU), Sponsored by the Society for Classical Studies, Phoenix, AZ (via Zoom) May 2021. 
+ 

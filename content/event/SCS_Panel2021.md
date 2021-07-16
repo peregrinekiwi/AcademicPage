@@ -1,5 +1,5 @@
 ---
-title: What Makes Ancient Games Great Panel discussion in the  (organised by , Phoenix, AZ (via Zoom) May 2021. 
+title: What Makes Ancient Games Great?
 
 event: Classics and Video Games Lecture Series
 event_url: https://www.youtube.com/watch?v=IfxmMe8VNa4
