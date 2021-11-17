@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Playing with Design
+summary: A workshop at Reception Studies: State of the Discipline and New Directions (Hosted online by Massey University, July 2021.)
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Games
+date: "2021-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
