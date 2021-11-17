@@ -1,6 +1,6 @@
 ---
 title: Playing with Design
-summary: A workshop at Reception Studies: State of the Discipline and New Directions (Hosted online by Massey University, July 2021.)
+summary: A workshop at Reception Studies -- State of the Discipline and New Directions (Hosted online by Massey University, July 2021.)
 tags:
 - Games
 date: "2021-07-27T00:00:00Z"
